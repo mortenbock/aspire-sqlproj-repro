@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\SqlProject1\SqlProject1.csproj" />
+    <ProjectReference Include="..\..\SqlProject2\SqlProject2.sqlproj" />
     <ProjectReference Include="..\AspireApp1.ApiService\AspireApp1.ApiService.csproj" />
     <ProjectReference Include="..\AspireApp1.Web\AspireApp1.Web.csproj" />
   </ItemGroup>

@@ -6,7 +6,7 @@ var server = builder.AddSqlServer("sqlserver");
 
 var database = server.AddDatabase("mydb");
 
-var sqlproj = builder.AddSqlProject<SqlProject1>("sqlproj")
+var sqlproj = builder.AddSqlProject<SqlProject2>("sqlproj")
     .WithReference(database);
 
 var apiService = builder.AddProject<Projects.AspireApp1_ApiService>("apiservice")
