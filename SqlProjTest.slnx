@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="AspireApp1/AspireApp1.ApiService/AspireApp1.ApiService.csproj" />
+  <Project Path="AspireApp1/AspireApp1.AppHost/AspireApp1.AppHost.csproj" />
+  <Project Path="AspireApp1/AspireApp1.ServiceDefaults/AspireApp1.ServiceDefaults.csproj" />
+  <Project Path="AspireApp1/AspireApp1.Web/AspireApp1.Web.csproj" />
+  <Project Path="SqlProject1/SqlProject1.csproj" />
+  <Project Path="Tests1/Tests1.csproj" />
+</Solution>
