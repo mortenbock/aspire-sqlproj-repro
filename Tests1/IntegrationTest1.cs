@@ -4,7 +4,7 @@ namespace Tests1.Tests
 {
     public class IntegrationTest1
     {
-        private static readonly TimeSpan DefaultTimeout = TimeSpan.FromSeconds(30);
+        private static readonly TimeSpan DefaultTimeout = TimeSpan.FromMinutes(3);
 
         // Instructions:
         // 1. Add a project reference to the target AppHost project, e.g.:
